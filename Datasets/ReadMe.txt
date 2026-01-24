@@ -9,3 +9,6 @@ To get a kaggle.json file:
 3. Scroll down until you see "Legacy API Credentials" and then you want to click "Create Legacy API Key"
 
 When you go to run the program it will always ask for you to input your kaggle.json. 
+
+The first dataset I used was: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge NOTE: you will have to accept the challenge on Kaggle (it should be fine though, the competition is done)
+The second dataset was: https://www.kaggle.com/datasets/sjagadeeshgiet/image-tamper-dataset
