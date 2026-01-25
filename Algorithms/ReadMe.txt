@@ -6,3 +6,7 @@ Current algorithms we plan on using:
 - K-Nearest Neighbor
 
 We plan on finalizing the above three algorithms before conducting more tests on custom algorithms such as MITS-GAN and ManTra-Net.
+
+1-25-2026
+
+Uploaded the RF, DT, and KNN algorithms trained on the CT-GAN dataset
