@@ -14,3 +14,7 @@ The first dataset I used was: https://www.kaggle.com/c/rsna-pneumonia-detection-
 The second dataset was: https://www.kaggle.com/datasets/sjagadeeshgiet/image-tamper-dataset
 
 (You can try to use the csv files, but honestly it might just be better to use the .ipynb file in the Algorithms folder and go through all the steps of the code)
+
+1-25-2026
+
+I updated the program to use CT-GAN instead of the simple tamper dataset. Please refer to the .ipynb in the Algorithms for how to install the CT-GAN dataset and how to use it.
