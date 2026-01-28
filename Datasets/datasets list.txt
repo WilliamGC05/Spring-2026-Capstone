@@ -1,0 +1,12 @@
+BIG DATASETS
+https://www.kaggle.com/datasets/ymirsky/medical-deepfakes-lung-cancer/data
+https://www.kaggle.com/datasets/freddiegraboski/btd-mri-and-ct-deepfake-test-sets
+
+Tampered data: 
+https://www.kaggle.com/datasets/freddiegraboski/btd-mri-and-ct-deepfake-test-sets
+https://www.kaggle.com/datasets/nourmahmoud/covid19-digital-xrays-forgery-dataset
+
+Untampered data:
+https://www.kaggle.com/datasets/bachrr/covid-chest-xray
+https://www.kaggle.com/datasets/unidpro/ct-scan-chest
+https://www.kaggle.com/datasets/anisayari/siimacrpneumothoraxsegmentationzip-dataset
