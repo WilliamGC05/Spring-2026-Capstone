@@ -18,3 +18,11 @@ The second dataset was: https://www.kaggle.com/datasets/sjagadeeshgiet/image-tam
 1-25-2026
 
 I updated the program to use CT-GAN instead of the simple tamper dataset. Please refer to the .ipynb in the Algorithms for how to install the CT-GAN dataset and how to use it.
+
+2-1-2026
+
+Datasets currently in use:
+1. BTD - MRI and CT deepfake test sets (https://www.kaggle.com/datasets/freddiegraboski/btd-mri-and-ct-deepfake-test-sets)
+2. COVID-19 Digital X-rays Forgery Dataset (https://www.kaggle.com/datasets/nourmahmoud/covid19-digital-xrays-forgery-dataset)
+3. Medical Image tamper dataset (https://www.kaggle.com/datasets/sjagadeeshgiet/image-tamper-dataset)
+4. COVID-19 chest xray (https://www.kaggle.com/datasets/bachrr/covid-chest-xray)
