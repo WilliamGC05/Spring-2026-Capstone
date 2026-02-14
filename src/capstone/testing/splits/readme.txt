@@ -1,0 +1,1 @@
+This folder is used for housing the splits of the testing datasets. You will have the dataset splits (clean and tampered) and also have a .csv file telling us the respective labels for each file (0 = clean, 1 = tampered).
